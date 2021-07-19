@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/course-app/static/css/main.d5e75890.chunk.css",
+    "main.js": "/course-app/static/js/main.b2f45aac.chunk.js",
+    "main.js.map": "/course-app/static/js/main.b2f45aac.chunk.js.map",
+    "runtime-main.js": "/course-app/static/js/runtime-main.dfda4914.js",
+    "runtime-main.js.map": "/course-app/static/js/runtime-main.dfda4914.js.map",
+    "static/js/2.0f5cdc35.chunk.js": "/course-app/static/js/2.0f5cdc35.chunk.js",
+    "static/js/2.0f5cdc35.chunk.js.map": "/course-app/static/js/2.0f5cdc35.chunk.js.map",
+    "index.html": "/course-app/index.html",
+    "precache-manifest.d844b3fa99e2bb12a4d1659440e541a9.js": "/course-app/precache-manifest.d844b3fa99e2bb12a4d1659440e541a9.js",
+    "service-worker.js": "/course-app/service-worker.js",
+    "static/css/main.d5e75890.chunk.css.map": "/course-app/static/css/main.d5e75890.chunk.css.map",
+    "static/js/2.0f5cdc35.chunk.js.LICENSE.txt": "/course-app/static/js/2.0f5cdc35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfda4914.js",
+    "static/js/2.0f5cdc35.chunk.js",
+    "static/css/main.d5e75890.chunk.css",
+    "static/js/main.b2f45aac.chunk.js"
+  ]
+}
